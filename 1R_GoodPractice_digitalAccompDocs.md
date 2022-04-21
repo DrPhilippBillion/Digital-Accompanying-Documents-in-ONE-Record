@@ -5,10 +5,10 @@
 ### Objective 
 The purpose of this document is to provide a Good Practice for using Digital Accompanying documents in an IATA ONE Record-based data eco-system
 
-## Target audience
+### Target audience
 This document can be used by any party with the interest of using digital accompanying documents in ONE Record. 
 
-## Geographical coverage
+### Geographical coverage
 As there are no legal or operational restrictions, the solution can be used world wide.
 
 ### Creators
@@ -22,24 +22,24 @@ Fraunhofer IML, Oliver Ditz
 
 Lufthansa Industry Solutions, Daniel Döppner
 
-## Continous development and availability
+### Continous development and availability
 
 This document is to be used and continously developed, even if the current major stakeholders should move to other topics. Thus a "handover" in Github is planned if responsibilities should shift.
 
-## Use and reference
+### Use and reference
 
 This Good Practice is free to access and use. 
 
 Please mention the use of this Good practice and provide a link to the Github repository as a source.
 
-## Publication date, version and history
+### Publication date, version and history
 
 Publication date, version and history should be provided by the Github version control system and not be duplicated here.
 
 
 ## Dependencies
 
-### Standards used:
+### Standards applied
 
 The ONE Record business ontology version as of APR 13, 2022 was used [Working draft Ontology of 2022APR13](https://github.com/IATA-Cargo/ONE-Record/blob/bbe86e364b04d6a6279f0ab6e9ee47e1905ec9c4/working_draft/ontology/IATA-1R-DM-Ontology.ttl).
 
