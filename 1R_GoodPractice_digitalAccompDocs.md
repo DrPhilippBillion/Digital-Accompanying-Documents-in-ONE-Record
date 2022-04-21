@@ -9,7 +9,9 @@ One or more stakeholders are able to provide digital accompanying documents
 
 ### Solution approach
 
-Digital accompanying documents are based on the use of the ONE Record data object >ExternalReference
+Digital accompanying documents are based on the use of the ONE Record data object 
+
+>ExternalReference
 
 ### Target process
 
