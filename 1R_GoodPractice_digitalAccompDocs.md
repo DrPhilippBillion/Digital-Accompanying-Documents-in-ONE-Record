@@ -1,6 +1,6 @@
 # Digital-Accompanying-Documents-in-ONE-Record
 
-## Basic Information
+## Basic Information on this document
 
 ### Objective 
 The purpose of this document is to provide a Good Practice for using Digital Accompanying documents in an IATA ONE Record-based data eco-system
@@ -15,8 +15,11 @@ As there are no legal or operational restrictions, the solution can be used worl
 This document is the outcome of a ONE Record pilot project with the "Digitales Testfeld Air Cargo" by the German air cargo community. Parties/Persons involved were:
 
 Lufthansa Cargo, Philipp Billion (in lead)
+
 CHI International, Oliver Meschkov
+
 Fraunhofer IML, Oliver Ditz
+
 Lufthansa Industry Solutions, Daniel Döppner
 
 ## Continous development and availability
