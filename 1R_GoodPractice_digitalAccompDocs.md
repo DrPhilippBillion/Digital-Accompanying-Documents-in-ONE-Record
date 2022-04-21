@@ -1,23 +1,45 @@
 # Digital-Accompanying-Documents-in-ONE-Record
 
-## Basics
+## Basic Information
 
-### Purpose 
+### Objective 
 The purpose of this document is to provide a Good Practice for using Digital Accompanying documents in an IATA ONE Record-based data eco-system
 
-### Creators
-This document is the outcome of a ONE Record pilot project with the "Digitales Testfeld Air Cargo" by the German air cargo community.
+## Target audience
+This document can be used by any party with the interest of using digital accompanying documents in ONE Record. 
 
-Parties/Persons involved were:
+## Geographical coverage
+As there are no legal or operational restrictions, the solution can be used world wide.
+
+### Creators
+This document is the outcome of a ONE Record pilot project with the "Digitales Testfeld Air Cargo" by the German air cargo community. Parties/Persons involved were:
 
 Lufthansa Cargo, Philipp Billion (in lead)
+CHI International, Oliver Meschkov
+Fraunhofer IML, Oliver Ditz
+Lufthansa Industry Solutions, Daniel Döppner
+
+## Continous development and availability
+
+This document is to be used and continously developed, even if the current major stakeholders should move to other topics. Thus a "handover" in Github is planned if responsibilities should shift.
+
+## Publication date, version and history
+
+Publication date, version and history should be provided by the Github version control system and not be duplicated here.
 
 
+## Dependencies
 
+### Standards used:
+
+The ONE Record business ontology version as of APR 13, 2022 was used [Working draft Ontology of 2022APR13](https://github.com/IATA-Cargo/ONE-Record/blob/bbe86e364b04d6a6279f0ab6e9ee47e1905ec9c4/working_draft/ontology/IATA-1R-DM-Ontology.ttl).
+
+The ONE Record API and security specification draft witout a version as of APR 13, 2022 was used (no link available yet).
+
+(no ONE Record server implementation yet)
 
 ## Assumptions
-One or more stakeholders are able to provide digital accompanying documents
-
+One or more stakeholders are able to provide digital accompanying documents, One or more stakeholders are able to consume digital accompanying documents
 
 ## Process
 
@@ -35,7 +57,7 @@ The use of the ExternalReference for Photos, Videos, etc. will be exactly identi
 
 ### Solution in current environment
 
-In the legacy messaging environment, digital accompanying documents are not possible. Generic solutions with generic cloud environments are possible, but not accoding to any standards and thus not scalable.
+In the legacy messaging environment, digital accompanying documents are not possible. Generic solutions with generic cloud environments are already possible, but result in raised maintenance and implementation costs and are not scalable.
 
 ## Data fields
 
@@ -45,7 +67,11 @@ In the legacy messaging environment, digital accompanying documents are not poss
 
 ## API use
 
+### Technical setting
+
 ### Basic API-Features used
+
+## Results / Summary
 
 ## Additional comments
 
