@@ -23,6 +23,12 @@ Lufthansa Industry Solutions, Daniel Döppner
 
 This document is to be used and continously developed, even if the current major stakeholders should move to other topics. Thus a "handover" in Github is planned if responsibilities should shift.
 
+## Use and reference
+
+This Good Practice is free to access and use. 
+
+Please mention the use of this Good practice and provide a link to the Github repository as a source.
+
 ## Publication date, version and history
 
 Publication date, version and history should be provided by the Github version control system and not be duplicated here.
